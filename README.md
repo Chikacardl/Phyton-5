@@ -1,6 +1,5 @@
 # Membersihkan data ('marketing_data.csv')
-
-# Prinsip yang di pakai adalah Basic OOP, Inheritance, Polymorphism
+Prinsip yang di pakai adalah Basic OOP, Inheritance, Polymorphism
 
 
 # Soal No 1 
